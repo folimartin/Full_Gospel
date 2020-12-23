@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+	font-family: 'Poppins', sans-serif;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+/* container section */
+.center-align{
+	margin-top: 20px !important;
+}
+
+.center-align img{
+	height: 300px;
+}
+
+.center-align h5{
+	font-weight: 400 !important;
+	font-size: 27px;
+}
+
+.center-align p{
+	opacity: 0.9;
+	font-size: 16px;
+}
+
+
+/* form section */
+.form-body{
+	height: 60% !important;
+	margin: 0 auto !important;
+	position: relative;
+	bottom: -40px;
+}
+
+.form-body form{
+	position: relative;
+	bottom: -25px;
+}
+
+
+.center-align .form-title{
+	position: relative;
+	background: #278b57;
+	bottom: 5px;
+	border-radius: 150px 25px;
+}
+
+.center-align .form-title h3{
+	font-size: 35px;
+	font-weight: 500 !important;
+	letter-spacing: 2px;
+}
+
+.center-align .form-title h6{
+	letter-spacing: 2px;
+	font-weight: normal !important;
+}
+
+.center-align .form-title i{
+	position: relative;
+	top: 10px;
+	border: 2px solid;
+	border-radius: 50px;
+}
+
+.center-align form i,
+.center-align form span{
+	color: grey;
+}
+
+.btn{
+	background: #278b57 !important;
+	letter-spacing: 1px;
+	padding:0 50px;
+	border-radius: 15px;
+}
+.btn:hover,
+.btn:focus{
+	background: #004040 !important;
+	outline: 0 !important;
+	opacity: 0.8;
+}
+
+
+footer{
+	position: relative;
+	top: 51px;
+}

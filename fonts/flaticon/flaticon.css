@@ -1,0 +1,158 @@
+/*
+    Flaticon icon font: Flaticon
+    Creation date: 19/09/2020 02:37
+    */
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"), url("./Flaticon.woff2") format("woff2"), url("./Flaticon.woff") format("woff"), url("./Flaticon.ttf") format("truetype"), url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: 500 !important;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+  font-size: 30px !important;
+  font-style: normal;
+  margin-left: 20px;
+}
+
+.flaticon-mail:before {
+  content: "\f100";
+}
+
+.flaticon-envelope:before {
+  content: "\f101";
+}
+
+.flaticon-up-arrow-1:before {
+  content: "\f102";
+}
+
+.flaticon-upload:before {
+  content: "\f103";
+}
+
+.flaticon-up-arrow-4:before {
+  content: "\f104";
+}
+
+.flaticon-phone-call:before {
+  content: "\f105";
+}
+
+.flaticon-call:before {
+  content: "\f106";
+}
+
+.flaticon-phone:before {
+  content: "\f107";
+}
+
+.flaticon-telephone:before {
+  content: "\f108";
+}
+
+.flaticon-pin:before {
+  content: "\f109";
+}
+
+.flaticon-worldwide:before {
+  content: "\f10a";
+}
+
+.flaticon-planet-earth:before {
+  content: "\f10b";
+}
+
+.flaticon-whatsapp-logo-variant:before {
+  content: "\f10c";
+}
+
+.flaticon-user:before {
+  content: "\f10d";
+}
+
+.flaticon-add-user:before {
+  content: "\f10e";
+}
+
+.flaticon-dashboard:before {
+  content: "\f10f";
+}
+
+.flaticon-dashboard-1:before {
+  content: "\f110";
+}
+
+.flaticon-dashboard-2:before {
+  content: "\f111";
+}
+
+.flaticon-dashboard-3:before {
+  content: "\f112";
+}
+
+.flaticon-upload-1:before {
+  content: "\f113";
+}
+
+.flaticon-cloud-computing:before {
+  content: "\f114";
+}
+
+.flaticon-down-arrow:before {
+  content: "\f115";
+}
+
+.flaticon-download:before {
+  content: "\f116";
+}
+
+.flaticon-globe:before {
+  content: "\f117";
+}
+
+.flaticon-wall-clock:before {
+  content: "\f118";
+}
+
+.flaticon-clock:before {
+  content: "\f119";
+}
+
+.flaticon-computer:before {
+  content: "\f11a";
+}
+
+.flaticon-mobile-service:before {
+  content: "\f11b";
+}
+
+.flaticon-chat:before {
+  content: "\f11c";
+}
+
+.flaticon-comment:before {
+  content: "\f11d";
+}
+
+.flaticon-notification:before {
+  content: "\f11e";
+}
+
+.flaticon-bell:before {
+  content: "\f11f";
+}
+
+.flaticon-notification-1:before {
+  content: "\f120";
+}
